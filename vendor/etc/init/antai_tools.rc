@@ -1,0 +1,9 @@
+service antai_tools /vendor/bin/antai_tools
+	user system
+	group system
+	class main
+	disabled
+	oneshot
+	
+on property:sys.boot_completed=1
+start antai_tools

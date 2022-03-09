@@ -1,0 +1,14 @@
+# E7446-user 11 RP1A.200720.011 1637827892 release-keys
+- manufacturer: micromax
+- platform: mt6785
+- codename: E7446
+- flavor: E7446-user
+- release: 11
+- id: RP1A.200720.011
+- incremental: 1637827892
+- tags: release-keys
+- fingerprint: Micromax/E7446/E7446:11/RP1A.200720.011/1637827892:user/release-keys
+- is_ab: false
+- brand: Micromax
+- branch: E7446-user-11-RP1A.200720.011-1637827892-release-keys
+- repo: micromax_e7446_dump7575

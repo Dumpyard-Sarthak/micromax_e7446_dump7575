@@ -1,0 +1,27 @@
+service bootanim /system/bin/bootanimation
+    class core animation
+    user graphics
+    group graphics audio
+    disabled
+    oneshot
+    ioprio rt 0
+    task_profiles MaxPerformance
+# Antaiui <AI_BootAudio_Opt> <luobowen> <20201114> modify for 2001 begin
+service banim_shutmp3 /system/bin/bootanimation shut mp3
+    class core animation
+    user graphics
+    group graphics audio
+    disabled
+    oneshot
+    ioprio rt 0
+    task_profiles MaxPerformance
+
+service banim_shutnomp3 /system/bin/bootanimation shut nomp3
+    class core animation
+    user graphics
+    group graphics audio
+    disabled
+    oneshot
+    ioprio rt 0
+    task_profiles MaxPerformance
+# Antaiui <AI_BootAudio_Opt> <luobowen> <20201114> modify for 2001 end

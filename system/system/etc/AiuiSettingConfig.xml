@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aiuisetting version="1">
+<aiuisetting aiuiname="force_touch_swich" aiuivalue="0"/>
+<aiuisetting aiuiname="force_touch_screen_switch" aiuivalue="0"/>
+<aiuisetting aiuiname="force_touch_open_app_switch" aiuivalue="0"/>
+<aiuisetting aiuiname="force_touch_functionswitch" aiuivalue="0"/>
+<!-- Gionee qinkai 2016-6-27 added for CR01722399 start -->
+<aiuisetting aiuiname="force_touch_app0" aiuivalue="com.android.camera/com.android.camera.CameraLauncher"/>
+<aiuisetting aiuiname="force_touch_app1" aiuivalue="com.android.music/com.android.music.MusicScanResultActivity"/>
+<aiuisetting aiuiname="force_touch_app2" aiuivalue="com.android.fmradio/com.android.fmradio.FmMainActivity"/>
+<aiuisetting aiuiname="force_touch_app3" aiuivalue="com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity"/>
+<aiuisetting aiuiname="force_touch_app4" aiuivalue="com.google.android.gm/com.google.android.gm.ConversationListActivityGmail"/>
+<aiuisetting aiuiname="force_touch_app5" aiuivalue="com.gionee.flashlight/com.gionee.flashlight.FlashLightActivity"/>
+<!-- Gionee qinkai 2016-6-27 added for CR01722399 end -->
+<!--Antaiui  ningtao 20171012 modify for 233855 begin  -->
+<aiuisetting aiuiname="black_gesture_m" aiuivalue="1:com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity"/>
+<aiuisetting aiuiname="black_gesture_s" aiuivalue="0:selfie"/>
+<aiuisetting aiuiname="black_gesture_o" aiuivalue="1:com.aidroid.flashlight/com.aidroid.flashlight.FlashLightActivity"/>
+<aiuisetting aiuiname="black_gesture_e" aiuivalue="1:com.google.android.gm/com.google.android.gm.ConversationListActivityGmail"/>
+<aiuisetting aiuiname="black_gesture_w" aiuivalue="1:com.google.android.apps.maps/com.google.android.maps.MapsActivity"/>
+<aiuisetting aiuiname="black_gesture_u_up" aiuivalue="1:com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity"/>
+
+
+<aiuisetting aiuiname="black_gesture_config_value" aiuivalue="2373"/>
+<!--Antaiui ningtao  20171012 modify for 233855 end  -->
+<aiuisetting aiuiname="is_new_black_gesture_on" aiuivalue="1"/>
+<aiuisetting aiuiname="is_psensor_browse_picture_dg" aiuivalue="1"/>
+<aiuisetting aiuiname="is_psensor_ctrl_video_dg" aiuivalue="1"/>
+<aiuisetting aiuiname="is_vibration_alert_on" aiuivalue="1"/>
+<aiuisetting aiuiname="is_sdg_light_screen_on" aiuivalue="1"/>
+<aiuisetting aiuiname="is_sdg_unlock_on" aiuivalue="1"/>
+<aiuisetting aiuiname="is_sdg_desktop_slide_on" aiuivalue="1"/>
+<aiuisetting aiuiname="is_fast_camera_on" aiuivalue="1"/>
+<aiuisetting aiuiname="is_exist_private_space" aiuivalue="1"/>
+<aiuisetting aiuiname="is_vibration_effect_on" aiuivalue="0"/>
+<aiuisetting aiuiname="is_exist_home_key_settings" aiuivalue="1"/>
+<aiuisetting aiuiname="black_gesture_u_right" aiuivalue="0:fastcamera"/>
+<aiuisetting aiuiname="support_split_screen" aiuivalue="0"/>
+<aiuisetting aiuiname="support_fast_charge" aiuivalue="0"/>
+<aiuisetting aiuiname="fast_charge" aiuivalue="0"/>
+<aiuisetting aiuiname="smart_protect_eye_support" aiuivalue="1"/>
+<aiuisetting aiuiname="blackgesture_support_doublefinger" aiuivalue="0"/>
+<aiuisetting aiuiname="is_exist_otg_reverse_charging" aiuivalue="1"/>
+<aiuisetting aiuiname="otg_reverse_charging_state" aiuivalue="0"/>
+<aiuisetting aiuiname="is_glove_patterns_on" aiuivalue="1"/>
+<aiuisetting aiuiname="ssg_doubleclick_wake" aiuivalue="0"/>
+<aiuisetting aiuiname="lcd_color_value" aiuivalue="7"/>
+</aiuisetting>
